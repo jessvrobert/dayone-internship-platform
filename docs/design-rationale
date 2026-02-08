@@ -1,0 +1,67 @@
+# Overview
+  
+The application design focuses on simplifying the internship search and application 
+process for university students. The goal is to reduce cognitive load, improve navigation 
+clarity, and support efficient task completion on mobile devices.
+The interface takes inspiration from existing job platforms while intentionally addressing 
+common issues such as cluttered layouts, unclear navigation, and poor mobile usability.
+
+# Design Approach
+  
+The design follows familiar patterns to minimize learning effort. Common icons and layouts 
+are used so users can rely on existing mental models rather than learning new interactions.
+Visual metaphors (e.g., search and work-related symbols) reinforce purpose without requiring 
+explanation, supporting quick recognition over recall.
+
+# User Flow
+  
+The user journey is structured to reflect a real internship process:
+
+--> Sign up and log in
+--> Browse internship listings
+--> Prepare profile and resume
+--> Apply and follow up
+  
+This linear flow reduces unnecessary decision points and keeps users 
+focused on their primary goal—securing an internship.
+
+# Navigation & Layout
+
+A bottom navigation bar provides quick access to key sections such as:
+
+--> Home (internship listings)
+--> Saved jobs
+--> Notifications and messages
+--> User profile
+
+This layout supports one-handed use and ensures important actions remain easily reachable.
+
+# Interaction Design (Fitts’ Law)
+
+Primary actions such as “Apply” and “Submit” are made larger and placed within easy thumb reach. 
+This reduces interaction effort and improves efficiency, especially in multi-step tasks like 
+resume creation.
+
+# Content Structure (Read-Flow)
+
+Information is arranged following natural reading patterns:
+
+--> Key details (titles, roles, company names) appear first
+--> Supporting information follows progressively
+
+This improves scannability and helps users quickly evaluate opportunities.
+
+# Feature Rationale
+
+--> Internship Listings: Centralized and clearly structured to reduce search fragmentation
+--> Resume Builder: Guided input lowers barriers to professional readiness
+--> Company Profiles: Ratings and feedback support transparency and informed decisions
+--> Notifications: Visual indicators highlight unread messages without overwhelming users
+--> Settings & FAQ: Simple controls and support content promote user autonomy
+
+# Design Summary
+
+The design prioritizes clarity, efficiency, and familiarity over visual complexity. 
+Every decision aims to reduce friction, support confidence, and make internship 
+access more approachable for first-time applicants.
+  

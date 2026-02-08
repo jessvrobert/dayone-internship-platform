@@ -1,0 +1,36 @@
+# Methodology
+The user requirements were collected by means of a structured online questionnaire dispatched to 30 university 
+students (various faculties and academic levels). The objective was to identify obstacles in finding internships, 
+preparing to find internships, and decent work opportunities.
+This approach enabled us to gather not only the quantitative indicators (e.g. percentages and strength of 
+preferences) but also the qualitative information (e.g. perceived friction and unmet needs). I applied the 
+principles of participatory design so that the user input directly influences the system requirements, rather 
+than assuming their presence based on the implied data.
+
+Data collection focused on:
+- Internship preparation challenges
+- Experiences with existing placement platforms
+- Preferred communication and tracking mechanisms
+- Feature expectations for a supportive intenrship platforms
+
+The methodology follows established Human Computer Interaction (HCI) practices for early-stage requirements 
+elicitation and supports the broader goal of inclusive and equitable access to early career opportunities.
+
+# Identified Needs
+Based on the survey analysis, the following core user needs were identified:
+
+Centralized Internship Database
+- Users require access to a single, updated, and filterable source of internship listings.
+- Evidence: 96.7% of respondents explicitly requested this feature
+- User value: Reduces search fragmentation and decision fatigue
+
+Transparent Company Feedback System
+- Users want visibility into past intern experiences through reviews and ratings.
+- Evidence: 83.3% emphasized the need for employer transparency
+- User value: Enables informed decision-making and reduces risk of unfair placements
+
+Integrated Resume / CV Builder
+- Users need tools to create professional, customizable, and ATS-friendly resumes.
+- Evidence: 73.3% cited lack of preparedness as a barrier
+- User value: Improves employability and confidence during applications
+
